@@ -1,5 +1,3 @@
-package ghwgweg;
-
 import java.util.Random;
 import java.util.Scanner;
 
