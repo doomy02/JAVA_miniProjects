@@ -1,5 +1,3 @@
-package ghwgweg;
-
 import java.util.Scanner;
 
 public class NumberGuesser {
